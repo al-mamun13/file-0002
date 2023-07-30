@@ -1,0 +1,23 @@
+.life{
+    text-align: center;
+    background-color: aqua;
+    border: 10px solid rgb(235, 4, 235);
+    border-radius: 15px;
+    margin: 40px;
+    padding: 70px;
+    background-image: url('images/image1.jpg');
+    background-position: 100%;
+
+}
+.life h2{
+    color:rgb(255, 0, 0);
+    font-weight: 800;
+    text-decoration: underline wavy rgb(25, 0, 255) 2px;
+    
+}
+
+.life p{
+    color: rgb(3, 3, 3);
+    font-size: 30px;
+    font-weight: 700;
+}
